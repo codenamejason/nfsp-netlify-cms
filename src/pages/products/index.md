@@ -82,14 +82,14 @@ pricing:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
+      plan: Sweatshirt
+      price: '44'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: '??'
+      plan: Hoodie
+      price: '60'
 ---
 
