@@ -69,7 +69,8 @@ pricing:
   heading: Our Deals
   description: >-
     We make it easy to make great ideas come to life. Send us your graphic and
-    we will print it using our latest in technology printing process.
+    we will print on one of our listed garments using our latest in technology
+    printing process.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
