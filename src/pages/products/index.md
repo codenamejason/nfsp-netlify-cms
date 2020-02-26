@@ -72,13 +72,11 @@ pricing:
     we will print on one of our listed garments using our latest in technology
     printing process.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Graphic on T-Shirt
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
+        - T-Shirt
+      plan: T-Shirt
+      price: '22'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
