@@ -1,14 +1,9 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: product-page
+title: What We Do
+image: /img/customprintingbanner.jpg
+heading: Print your own graphic on a t-shirt or hoodie.
+description: 'Upload your image and select what you want it printed on, it''s that easy!'
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +94,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
