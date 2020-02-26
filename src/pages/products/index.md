@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: What We Do
-image: /img/customprintingbanner.jpg
+image: /img/yourdesignhere.jpg
 heading: Print your own graphic on a t-shirt or hoodie.
 description: 'Upload your image and select what you want it printed on, it''s that easy!'
 intro:
